@@ -1,0 +1,11 @@
+The images used for training are from the following link:
+https://visualqa.org/vqa_v1_download.html
+
+Images to download:
+Abstract scenes
+|
+ ---- Training images (Download link: https://s3.amazonaws.com/cvmlp/vqa/abstract_v002/scene_img/scene_img_abstract_v002_train2015.zip)
+|
+ ---- Validation images (Download link: https://s3.amazonaws.com/cvmlp/vqa/abstract_v002/scene_img/scene_img_abstract_v002_val2015.zip)
+
+Place both the images in the same folder "images".
